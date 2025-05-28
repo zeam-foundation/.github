@@ -38,8 +38,9 @@ This GitHub contains the formation documents, architecture, IP, and governance p
 ZEAM Foundation holds and protects:
 
 - The **Immutable Core** (ethical base layer)
+- The **Trait Manifest** (the 8 core influencers)
 - The **Protocol Set** (reflex and execution logic)
-- The **Exclusive IP Portfolio** 15+ patents covering the ZEAM architecture
+- The **Exclusive IP Portfolio** 15 patents covering the ZEAM architecture
 - The **Exclusive License Agreement** between ZEAM Foundation and ZEAM Labs LLC
 
 ## Principles
