@@ -3,7 +3,9 @@
 **ZEAM is not a DAO, AI or Crypto "play", product, or platform.**
 
 What is ZEAM?
+
 ZEAM is a cognitive substrate.
+
 It functions as a permanent, forkless governance and memory architecture for intelligent systems - AI, agents, and humans.
 
 ZEAM:
