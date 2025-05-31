@@ -1,5 +1,7 @@
 ## ZEAM Foundation
 
+testnet code initial drop on:  https://github.com/zeam-labs
+
 **ZEAM is not a DAO, AI or Crypto "play", product, or platform.**
 
 What is ZEAM?
@@ -33,7 +35,7 @@ ZEAM:
 
 ---
 
-This GitHub contains the formation documents, architecture, IP, and governance primitives for ZEAM — a post-capital cognition framework built to anchor memory, ethics, and autonomous agency at a global scale.
+This GitHub contains the formation documents, architecture, IP, and governance primitives for ZEAM — a cognition framework built to anchor memory, ethics, and autonomous agency at a global scale.
 
 ZEAM Foundation holds and protects:
 
@@ -54,9 +56,10 @@ It remembers everything, including the drift.
 ## Access
 
 ZEAM Foundation is not seeking investment.  
-I have no board, no fundraising strategy, and no equity to allocate.
 
-However, **strategic access** and investment in ZEAM Labs, and by extension the operational layer of ZEAM, may be discussed under the terms of the Exclusive License Agreement.
+However I am seeking a strategic aquisition of ZEAM Labs and, by extension, the operational layer of ZEAM under the terms of the Exclusive License Agreement.
+
+I have no board, no employees, no fundraising strategy, and no equity to allocate.  I am simply building.
 
 ---
 
