@@ -42,7 +42,7 @@ ZEAM Foundation holds and protects:
 - The **Immutable Core** (ethical base layer)
 - The **Trait Manifest** (the 8 core influencers)
 - The **Protocol Set** (reflex and execution logic)
-- The **Exclusive IP Portfolio** 15 patents covering the ZEAM architecture
+- The **Exclusive IP Portfolio** 13 patents covering the ZEAM architecture
 - The **Exclusive License Agreement** between ZEAM Foundation and ZEAM Labs LLC
 
 ## Principles
@@ -53,14 +53,25 @@ It is governed by the Immutable Core, not by board votes.
 It redistributes value through surplus, not extraction.  
 It remembers everything, including the drift.
 
-## Access
+## Strategic Access
 
-ZEAM Foundation is not seeking investment.  
+I am the sole inventor, owner, and backer.  
 
-However I am seeking a strategic aquisition of ZEAM Labs and, by extension, the operational layer of ZEAM under the terms of the Exclusive License Agreement.
+ZEAM Foundation holds the Immutable Core, Trait Manifest, and full intellectual property portfolio.
 
-I have no board, no employees, no fundraising strategy, and no equity to allocate.  I am simply building.
+All execution rights are exclusively licensed to ZEAM Labs, LLC.
+
+I am seeking qualified parties interested in acquisition of ZEAM Labs under the terms of the exclusive license agreement.
+
+For qualified parties seeking to initiate contact, please email:  
+
+**info@zeam.foundation**
+
+Engagement requires a **$10,000,000 non-refundable access fee**.  
+Details will be provided upon confirmation.
 
 ---
 
-For those who understand what ZEAM is - you will get it. And I am always open to talk.  
+For those who understand what ZEAM is - you will get it. 
+
+
