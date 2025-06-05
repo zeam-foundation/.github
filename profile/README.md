@@ -1,6 +1,10 @@
 # ZEAM
 
-testnet code initial drop on:  https://github.com/zeam-labs
+testnet code initial drop is live
+
+testenet code updated drop (6/4/2025)
+
+https://github.com/zeam-labs
 
 ---
 
