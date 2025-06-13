@@ -2,7 +2,15 @@
 
 testnet code initial drop is live
 
-testenet code updated drop (6/4/2025)
+FUNCTIONAL!  6/12/2025.
+
+We have run our first successful tests of:
+
+**BlockMesh:Runtime** - Decentralized serverless block-chain based runtime
+
+**BlockMesh:Memory** - Decentralized storage and retrival system
+
+More to follow...
 
 https://github.com/zeam-labs
 
