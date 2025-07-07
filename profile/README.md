@@ -1,10 +1,8 @@
 # ZEAM
 
-testnet code initial drop is live
+testnet code new drop 7/6/2025
 
-FUNCTIONAL!  6/12/2025.
-
-We have run our first successful tests of:
+The DNS is live. I have conducted numerous alpha tests and refactored a number of modules.  More notes on ZEAM Labs.
 
 **BlockMesh:Runtime** - Decentralized serverless block-chain based runtime
 
@@ -17,6 +15,14 @@ https://github.com/zeam-labs
 ---
 
 ## What Does ZEAM Do?
+
+This is a substrate-level system. 
+
+**Problem: Cloud storage and server farms are not viable in the longterm.**
+We all know it. We can only build so many server farms. Energy and cooling is a major issue. Yet we require more and more data space.
+
+**ZEAM fixes that.**
+ZEAM leverages the underutilized idle space and compute of the billions of computers and devices out there. The system becomes STRONGER as more people connect... and still maintains privacy through encryption and sharding of data.
 
 **Problem: AI guesses instead of remembering.**  
 Most AI systems don’t actually remember anything. They generate answers based on patterns—not facts, not continuity, not anchored experience.  
@@ -65,7 +71,7 @@ ZEAM breaks mental models, but the system is minimal by design:
 - **One action = one mint.** No state mutation. No side effects.  
 - **Modules are just schemas.** No contracts, no logic bloat.  
 - **Cognition emerges from pressure**, not thresholds or calls.  
-- **The LLM never generates.** It compresses and reflects memory—it never invents.
+- **The LLM generates - but guided by pressure.** It compresses and reflects memory—it never invents.
 
 There are no black boxes. No surface-level outputs.  
 Just anchored memory, and clear reasoning.
@@ -152,6 +158,9 @@ The Exclusive License Agreement - assigning all commercialization rights to ZEAM
 Zeam Labs, also a Delaware Limited Liability Company, is the development company.  ZEAM Labs holds an exclusive commercialization and utilization license for all intellectual property and governance primatives held by ZEAM Foundation. 
 
 GitHub: https://github.com/zeam-labs 
+
+## Founder Profile
+Samuel Kimzey (www.linkedin.com/in/samuelkimzey)
 
 ## Strategic Access
 
