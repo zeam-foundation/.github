@@ -4,7 +4,7 @@
 [![Patents](https://img.shields.io/badge/patents%20-%20slategray?style=for-the-badge)](https://github.com/zeam-foundation/zeam-ip) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![ZEAM Foundation Corporate Documents](https://img.shields.io/badge/zeam%20foundation%20corporate%20documents%20-%20slategray?style=for-the-badge)](https://github.com/zeam-foundation/ZEAM-Foundation-Corporate-Docs) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![ZEAM Labs Corporate Documents](https://img.shields.io/badge/zeam%20labs%20corporate%20documents%20-%20slategray?style=for-the-badge)](https://github.com/zeam-labs/ZEAM-Labs-Corporate-Docs) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Core Bundle](https://img.shields.io/badge/core%20bundle%20-%20slategray?style=for-the-badge)](https://github.com/zeam-foundation/Core-Bundle) 
+[![Core Bundle](https://img.shields.io/badge/core%20bundle%20-%20slategray?style=for-the-badge)](https://github.com/zeam-foundation/Core-Bundle)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Static Badge](https://img.shields.io/badge/test%20results%20and%20roadmap%20-%20slategray?style=for-the-badge)](https://github.com/zeam-labs)
 
 
