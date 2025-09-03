@@ -195,16 +195,4 @@ And... I am watching the clones every time I post something new. I am aware you 
 
 ---
 
-I am open to qualified parties interested in limited investment, sub-licensing, or acquiring stake in ZEAM Labs.
-
-But there must be alignment. This is not a hyped up app play. This is a paradigm shift. 
-
-To initiate contact, you may email:
-
-info@zeam.foundation
-
-The table stakes for engagment are $10,000,000 non-refundable.
-Details will be provided.
-
----
-For those who understand what ZEAM is and can do.
+I am no longer seeking investment.  IP licensing will soon be available.
